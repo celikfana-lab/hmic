@@ -1,4 +1,7 @@
 # hmic
+
+note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about
+and yes i made it in ai do not exspect an 13 year old boy to even understand making an codec at this age
 note: check the test folders as you can see more efficent formats like HMICP and HMICP7 (hatsune miku is cringe prerenderd)
 (7 is inspierd by 7-zip)
 warning: hmicmp4 is very buggy and this wil be abandoned since it is was to hard but you can use HMIC tech as an lossless GIF or PNG 
