@@ -2,7 +2,8 @@
 note: check the test folders as you can see more efficent formats like HMICP and HMICP7 (hatsune miku is cringe prerenderd)
 (7 is inspierd by 7-zip)
 warning: hmicmp4 is very buggy and this wil be abandoned since it is was to hard but you can use HMIC tech as an lossless GIF or PNG 
-
+note: HMICA (hatsune miku is cringe audio) wil be added soon and current its not made 
+!: please do not send me porn or NSFW or NSFL etc to me with the HMIC format if you do well then i wil hate you
 
 
 hatsune miku is cringe image format
