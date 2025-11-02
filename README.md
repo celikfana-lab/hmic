@@ -30,9 +30,10 @@ C R I N G E
 
 COPY RIGHT ~~INTEL~~ CFM FOR MIKU RIGHTS 
 
-## how to build
-use g++ idk, just make it compile somehow  
-needs: sdl2, zstd, c++17, and your soul  
+~~## how to build~~
+~~use g++ idk, just make it compile somehow~~
+~~needs: sdl2, zstd, c++17, and your soul~~
+if you find out what file is what congrats, i call you an wizard
 
 ## how to run
 ./hmic_converter  
