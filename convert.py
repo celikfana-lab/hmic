@@ -1,5 +1,5 @@
 from PIL import Image
-import lzma
+import zstandard as zstd
 import os
 from collections import defaultdict
 
@@ -71,10 +71,12 @@ if mode == "HMIC":
 
 elif mode == "HMIC7":
     out_file = f"{base_name}.hmic7"
-    compressed_data = lzma.compress(text_data.encode("utf-8"), format=lzma.FORMAT_XZ)
+    # 🔥 ZSTD SUPREMACY — faster than lzma and still hits different
+    cctx = zstd.ZstdCompressor(level=19)  # level 19 for max chaos compression 💀
+    compressed_data = cctx.compress(text_data.encode("utf-8"))
     with open(out_file, "wb") as f:
         f.write(compressed_data)
-    print(f"🌀 HMIC7 file created — LZMA2 chewed {out_file} like bubblegum 💾🔥")
+    print(f"🌀 HMIC7 file created — Zstd absolutely DEVOURED {out_file} no crumbs left 💾🔥")
 
 else:
     print("❌ invalid format, Miku has left the chat 😭")
