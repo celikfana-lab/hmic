@@ -20,7 +20,9 @@ warning: hmicmp4 is very buggy and this wil be abandoned since it is was to hard
 note: HMICA (hatsune miku is cringe audio) wil be added soon and current its not made 
 !: please do not send me porn or NSFW or NSFL etc to me with the HMIC format if you do well then i wil hate you
 i: if you find bugs, congrats i wil then say to you "fix it on you're own" fix it my self OR (100% chanse) ask ai to fix it (i am too smart)
-
+note: shoutout to whoever made the miku art in the github repo and shoutout for google for making serching the imiage possible
+note: there are miku imiages everywhere to test whatever-> HMIC i didnt make them 
+© Crypton Future Media, Inc. 2007 (for Hatsune Miku)
 hatsune miku is cringe image format
 HELLO GUYS PLS READ BEFORE U TELL MIKU FANS
 
