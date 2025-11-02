@@ -51,9 +51,10 @@ COPY RIGHT ~~INTEL~~ CFM FOR MIKU RIGHTS
 if you find out what file is what congrats, i call you an wizard
 
 ## how to run
-./hmic_converter  
-./hmic_viewer  
-profit  
+~~./hmic_converter~~
+~~./hmic_viewer~~
+~~profit~~ cry😭
+if you find out what file is what congrats, i call you an wizard
 
 
 H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E H A T S U N E M I K U I S C R I N G E 
