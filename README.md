@@ -1,6 +1,18 @@
 # hmic
 
-note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about
+note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about (and yes i did it like this
+
+display= 3x3
+F1{
+rgb(0,0,0){
+PL=whateverxwhatever-whateverxwhatever
+P=whateverxwhatever
+  }
+}
+this right here was the erlyest prtotype made on paper
+and then i used python with pygame but it was an snail
+then i use c++ and then used opengl but too hard so then i used just SDL2 then regex was horrible so i made my own (HMICX - hatsune miku is cringe regeX) 
+and now with HMICP i dont know how the hell it works i just asked ai to make it prerenderd 
 and yes i made it in ai do not exspect an 13 year old boy to even understand making an codec at this age
 note: check the test folders as you can see more efficent formats like HMICP and HMICP7 (hatsune miku is cringe prerenderd)
 (7 is inspierd by 7-zip)
