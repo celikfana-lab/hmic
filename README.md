@@ -24,6 +24,14 @@ note: shoutout to whoever made the miku art in the github repo and shoutout for 
 note: there are miku imiages everywhere to test whatever-> HMIC i didnt make them 
 © Crypton Future Media, Inc. 2007 (for Hatsune Miku)
 hatsune miku is cringe image format
+
+
+exsampels:
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/85fe7e7b-ee8d-445e-810a-e4ae48c6aa2f" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3de751e7-f20a-47be-a292-7f25abfb6dd2" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9abafa16-2f26-4f16-9230-dc1f72db88c6" />
+
 HELLO GUYS PLS READ BEFORE U TELL MIKU FANS
 
 THIS IS WHY MIKU IS CRINGE:
