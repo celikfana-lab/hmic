@@ -31,6 +31,16 @@ exsampels:
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/85fe7e7b-ee8d-445e-810a-e4ae48c6aa2f" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3de751e7-f20a-47be-a292-7f25abfb6dd2" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9abafa16-2f26-4f16-9230-dc1f72db88c6" />
+comparing:
+<img width="860" height="685" alt="375-3751201_transparent-chibi-miku-png-hatsune-miku-chibi-transparent" src="https://github.com/user-attachments/assets/92efe7ea-ef85-4490-8661-ff94622a9a89" />
+PNG:419.1 KiB🫤
+HMIC:3.1 MiB💀
+HMIC7:609.6 KiB😐
+HMICP:2.2 MiB😭
+HMICP7:361.3 KiB😳😳😳
+
+
+
 
 HELLO GUYS PLS READ BEFORE U TELL MIKU FANS
 
