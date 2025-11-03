@@ -39,6 +39,14 @@ HMIC7:609.6 KiB😐
 HMICP:2.2 MiB😭
 HMICP7:361.3 KiB😳😳😳
 
+COMPARING GIF'S
+![cobson-miku](https://github.com/user-attachments/assets/789c560f-4b79-4ab1-a324-0bf0778fbdb2)
+gif:131.5 KiB
+HMIC:1.8 MiB
+HMIC7:250.8 KiB
+HMICP:3.0 MiB
+HMICP7:104.3 KiB
+
 
 
 
