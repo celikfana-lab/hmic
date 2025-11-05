@@ -1,5 +1,5 @@
 # hmic/hmicp
-
+news: HMICB is about to be releced
 note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about (and yes i did it like this
 
 display= 3x3
