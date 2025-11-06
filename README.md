@@ -40,7 +40,6 @@ HMICP:2.2 MiB😭
 HMICP7:361.3 KiB😳😳😳
 (hmicb is currently not relced)
 HMIB: 2,24 MB
-HMICB7: 361 kB
 COMPARING GIF'S
 ![cobson-miku](https://github.com/user-attachments/assets/789c560f-4b79-4ab1-a324-0bf0778fbdb2)
 gif:131.5 KiB
@@ -49,7 +48,7 @@ HMIC7:250.8 KiB
 HMICP:3.0 MiB
 HMICP7:104.3 KiB
 HMICB:2,65 MB
-HMICB7:363 kB
+HMICB7:1,09 MB (uses LZ4 so its ultra speed and wont blow up chrome
 
 
 
