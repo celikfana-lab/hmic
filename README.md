@@ -1,7 +1,7 @@
 # hmic/hmicp
 news: HMICB is about to be releced
 note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about (and yes i did it like this
-
+news: HMICPV&A7 wil be the competator to MP4 if it relces
 display= 3x3
 F1{
 rgb(0,0,0){
