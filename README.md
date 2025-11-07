@@ -1,4 +1,7 @@
 # hmic/hmicp
+
+<img width="517" height="236" alt="image" src="https://github.com/user-attachments/assets/4828aa09-609b-49ac-b6b3-8a9ba38847b9" />
+
 news: HMICB is about to be releced
 note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about (and yes i did it like this
 news: HMICPV&A7 wil be the competator to MP4 if it relces
