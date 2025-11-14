@@ -1,6 +1,8 @@
 # hmic/hmicp
 
 <img width="517" height="236" alt="image" src="https://github.com/user-attachments/assets/4828aa09-609b-49ac-b6b3-8a9ba38847b9" />
+mascot of hatsune miku is cringe: MIG++U
+<img width="819" height="460" alt="Naamloos" src="https://github.com/user-attachments/assets/ec9972a8-18c0-47c9-befc-8de6b56b5fec" />
 
 news: HMICB is about to be releced
 note: i am just an kid and made the first type of HMIC in school with an 3x3 display and my freind had no idea what the hell i was talking about (and yes i did it like this
